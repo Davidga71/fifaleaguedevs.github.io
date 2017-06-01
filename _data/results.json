@@ -194,6 +194,15 @@
       "away_team": "Manchester City FC",
       "away_score": 1,
       "away_goals": ["De Gea"]
+    },
+    {
+      "match_id": 23,
+      "home_team": "Chelsea FC",
+      "home_score": 2,
+      "home_goals": ["Diego Costa", "Cesc Fabregas"],
+      "away_team": "Paris Saint-Germain FC",
+      "away_score": 2,
+      "away_goals": ["Lucas, Cavani"]
     }
   ]
 
