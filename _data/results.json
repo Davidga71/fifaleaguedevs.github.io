@@ -99,7 +99,7 @@
       "home_goals": ["Busquets"],
       "away_team": "Manchester City FC",
       "away_score": 2,
-      "away_goals": ["Sterling", "Aguero", "F. Gerreiro"]
+      "away_goals": ["Sterling", "Aguero"]
     },
     {
       "match_id": 12,
@@ -210,7 +210,7 @@
       "match_id": 27,
       "home_team": "BV Borussia",
       "home_score": 4,
-      "home_goals": ["Aubameyang","Schürrle", "Götze", ""],
+      "home_goals": ["Aubameyang","Schürrle", "Götze", "F. Guerreiro"],
       "away_team": "Atlético de Madrid",
       "away_score": 1,
       "away_goals": ["Griezmann"]
