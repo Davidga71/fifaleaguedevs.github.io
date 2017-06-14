@@ -178,15 +178,6 @@
       "away_goals": []
     },
     {
-      "match_id": 22,
-      "home_team": "FC Bayern",
-      "home_score": 5,
-      "home_goals": ["Müller","Lewandowski", "Lewandowski", "Douglas Costa", "Douglas Costa"],
-      "away_team": "Atlético de Madrid",
-      "away_score": 1,
-      "away_goals": ["Griezmann"]
-    },
-    {
       "match_id": 21,
       "home_team": "Manchester United FC",
       "home_score": 1,
@@ -194,6 +185,15 @@
       "away_team": "Manchester City FC",
       "away_score": 1,
       "away_goals": ["De Gea"]
+    },   
+    {
+      "match_id": 22,
+      "home_team": "FC Bayern",
+      "home_score": 5,
+      "home_goals": ["Müller","Lewandowski", "Lewandowski", "Douglas Costa", "Douglas Costa"],
+      "away_team": "Atlético de Madrid",
+      "away_score": 1,
+      "away_goals": ["Griezmann"]
     },
     {
       "match_id": 23,
@@ -206,6 +206,15 @@
     }
   ],
   "round-5":[
+    {
+      "match_id": 25,
+      "home_team": "Arsenal FC",
+      "home_score": 0,
+      "home_goals": [],
+      "away_team": "Real Madrid FC",
+      "away_score": 0,
+      "away_goals": []
+    },
     {
       "match_id": 27,
       "home_team": "BV Borussia",
@@ -235,6 +244,15 @@
     }
   ],
   "round-6":[
+    {
+      "match_id": 31,
+      "home_team": "Arsenal FC",
+      "home_score": 4,
+      "home_goals": ["Cazorla","Welbeck","Cazorla","Bellerin"],
+      "away_team": "Manchester City FC",
+      "away_score": 0,
+      "away_goals": []
+    },   
     {
       "match_id": 36,
       "home_team": "FC Bayern",
