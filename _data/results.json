@@ -261,7 +261,16 @@
       "away_team": "Manchester City FC",
       "away_score": 0,
       "away_goals": []
-    },   
+    },
+    {
+      "match_id": 33,
+      "home_team": "Juventus FC",
+      "home_score": 1,
+      "home_goals": ["Cuadrado"],
+      "away_team": "Paris Saint-Germain FC",
+      "away_score": 0,
+      "away_goals": []
+    },
     {
       "match_id": 36,
       "home_team": "FC Bayern",
