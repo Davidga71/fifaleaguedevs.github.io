@@ -55,6 +55,17 @@
     "team": "Juventus FC"
   },
   {
+    "played": 7,
+    "won": 1,
+    "drawn": 4,
+    "lost": 2,
+    "points": 7,
+    "goalFor": 6,
+    "goalAgainst": 7,
+    "goalDifference": -1,
+    "team": "Real Madrid CF"
+  },
+  {
     "played": 5,
     "won": 2,
     "drawn": 1,
@@ -64,17 +75,6 @@
     "goalAgainst": 12,
     "goalDifference": -3,
     "team": "Atlético de Madrid"
-  },
-  {
-    "played": 6,
-    "won": 1,
-    "drawn": 3,
-    "lost": 2,
-    "points": 6,
-    "goalFor": 6,
-    "goalAgainst": 7,
-    "goalDifference": -1,
-    "team": "Real Madrid CF"
   },
   {
     "played": 6,
@@ -130,16 +130,5 @@
     "goalAgainst": 6,
     "goalDifference": -3,
     "team": "FC Barcelona"
-  },
-  {
-    "played": 1,
-    "won": 0,
-    "drawn": 1,
-    "lost": 0,
-    "points": 1,
-    "goalFor": 0,
-    "goalAgainst": 0,
-    "goalDifference": 0,
-    "team": "Real Madrid FC"
   }
 ]
