@@ -11,6 +11,17 @@
     "team": "FC Bayern"
   },
   {
+    "played": 6,
+    "won": 2,
+    "drawn": 3,
+    "lost": 1,
+    "points": 9,
+    "goalFor": 6,
+    "goalAgainst": 5,
+    "goalDifference": 1,
+    "team": "Chelsea FC"
+  },
+  {
     "played": 5,
     "won": 2,
     "drawn": 2,
@@ -38,10 +49,10 @@
     "drawn": 2,
     "lost": 1,
     "points": 8,
-    "goalFor": 6,
-    "goalAgainst": 5,
+    "goalFor": 4,
+    "goalAgainst": 3,
     "goalDifference": 1,
-    "team": "Chelsea FC"
+    "team": "Juventus FC"
   },
   {
     "played": 5,
@@ -61,53 +72,42 @@
     "lost": 2,
     "points": 6,
     "goalFor": 6,
+    "goalAgainst": 7,
+    "goalDifference": -1,
+    "team": "Real Madrid CF"
+  },
+  {
+    "played": 6,
+    "won": 1,
+    "drawn": 3,
+    "lost": 2,
+    "points": 6,
+    "goalFor": 6,
     "goalAgainst": 8,
     "goalDifference": -2,
     "team": "Arsenal FC"
   },
   {
-    "played": 4,
+    "played": 7,
     "won": 1,
-    "drawn": 2,
-    "lost": 1,
-    "points": 5,
-    "goalFor": 3,
-    "goalAgainst": 3,
-    "goalDifference": 0,
-    "team": "Juventus FC"
-  },
-  {
-    "played": 5,
-    "won": 1,
-    "drawn": 2,
-    "lost": 2,
-    "points": 5,
-    "goalFor": 4,
-    "goalAgainst": 10,
-    "goalDifference": -6,
-    "team": "Manchester City FC"
-  },
-  {
-    "played": 4,
-    "won": 1,
-    "drawn": 1,
-    "lost": 2,
-    "points": 4,
-    "goalFor": 5,
-    "goalAgainst": 6,
-    "goalDifference": -1,
-    "team": "Real Madrid CF"
-  },
-  {
-    "played": 5,
-    "won": 0,
     "drawn": 3,
-    "lost": 2,
-    "points": 3,
+    "lost": 3,
+    "points": 6,
+    "goalFor": 7,
+    "goalAgainst": 14,
+    "goalDifference": -7,
+    "team": "Paris Saint-Germain FC"
+  },
+  {
+    "played": 6,
+    "won": 1,
+    "drawn": 2,
+    "lost": 3,
+    "points": 5,
     "goalFor": 4,
     "goalAgainst": 13,
     "goalDifference": -9,
-    "team": "Paris Saint-Germain FC"
+    "team": "Manchester City FC"
   },
   {
     "played": 3,
@@ -121,6 +121,17 @@
     "team": "Athletic de Bilbao"
   },
   {
+    "played": 5,
+    "won": 0,
+    "drawn": 2,
+    "lost": 3,
+    "points": 2,
+    "goalFor": 3,
+    "goalAgainst": 6,
+    "goalDifference": -3,
+    "team": "FC Barcelona"
+  },
+  {
     "played": 1,
     "won": 0,
     "drawn": 1,
@@ -130,16 +141,5 @@
     "goalAgainst": 0,
     "goalDifference": 0,
     "team": "Real Madrid FC"
-  },
-  {
-    "played": 4,
-    "won": 0,
-    "drawn": 1,
-    "lost": 3,
-    "points": 1,
-    "goalFor": 2,
-    "goalAgainst": 5,
-    "goalDifference": -3,
-    "team": "FC Barcelona"
   }
 ]
