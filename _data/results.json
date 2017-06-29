@@ -1,70 +1,68 @@
 {
- "round-1":[
-  {
-    "match_id": 1,
-    "home_team": "Arsenal FC",
-    "home_score": 0,
-    "home_goals": [],
-    "away_team": "FC Bayern",
-    "away_score": 1,
-    "away_goals": ["Müller"]
-  },
-  {
-    "match_id": 2,
-    "home_team": "Chelsea FC",
-    "home_score": 2,
-    "home_goals": ["Diego Costa", "Pedro"],
-    "away_team": "Manchester United FC",
-    "away_score": 1,
-    "away_goals": ["Martial"]
-  },
-  {
-    "match_id": 3,
-    "home_team": "Athletic de Bilbao",
-    "home_score": 1,
-    "home_goals": ["Aduriz"],
-    "away_team": "BV Borussia",
-    "away_score": 1,
-    "away_goals": ["Burki"]
-  },
-  {
-    "match_id": 4,
-    "home_team": "FC Barcelona",
-    "home_score": 1,
-    "home_goals": ["Messi"],
-    "away_team": "Juventus FC",
-    "away_score": 2,
-    "away_goals": ["Pjanic", "Marchisio"]
-  },
-  {
-    "match_id": 5,
-    "home_team": "Paris Saint-Germain FC",
-    "home_score": 0,
-    "home_goals": [],
-    "away_team": "Real Madrid CF",
-    "away_score": 3,
-    "away_goals": ["Benzema", "Modric", "Benzema"]
-  },
-  {
-    "match_id": 6,
-    "home_team": "Atlético de Madrid",
-    "home_score": 3,
-    "home_goals": ["Gabi", "Griezmann", "Koke"],
-    "away_team": "Manchester City FC",
-    "away_score": 0,
-    "away_goals": []
-  }
- ],
-  "round-2":[
+  "round-1": [{
+      "match_id": 1,
+      "home_team": "Arsenal FC",
+      "home_score": 0,
+      "home_goals": [],
+      "away_team": "FC Bayern",
+      "away_score": 1,
+      "away_goals": ["Müller"]
+    },
     {
+      "match_id": 2,
+      "home_team": "Chelsea FC",
+      "home_score": 2,
+      "home_goals": ["Diego Costa", "Pedro"],
+      "away_team": "Manchester United FC",
+      "away_score": 1,
+      "away_goals": ["Martial"]
+    },
+    {
+      "match_id": 3,
+      "home_team": "Athletic de Bilbao",
+      "home_score": 1,
+      "home_goals": ["Aduriz"],
+      "away_team": "BV Borussia",
+      "away_score": 1,
+      "away_goals": ["Burki"]
+    },
+    {
+      "match_id": 4,
+      "home_team": "FC Barcelona",
+      "home_score": 1,
+      "home_goals": ["Messi"],
+      "away_team": "Juventus FC",
+      "away_score": 2,
+      "away_goals": ["Pjanic", "Marchisio"]
+    },
+    {
+      "match_id": 5,
+      "home_team": "Paris Saint-Germain FC",
+      "home_score": 0,
+      "home_goals": [],
+      "away_team": "Real Madrid CF",
+      "away_score": 3,
+      "away_goals": ["Benzema", "Modric", "Benzema"]
+    },
+    {
+      "match_id": 6,
+      "home_team": "Atlético de Madrid",
+      "home_score": 3,
+      "home_goals": ["Gabi", "Griezmann", "Koke"],
+      "away_team": "Manchester City FC",
+      "away_score": 0,
+      "away_goals": []
+    }
+  ],
+  "round-2": [{
       "match_id": 7,
       "home_team": "Arsenal FC",
       "home_score": 0,
       "home_goals": [],
       "away_team": "Manchester United FC",
       "away_score": 5,
-      "away_goals": ["Pogba","Ibrahimovic","Mkhitaryan","Rooney","Rashford"]
-    },   
+      "away_goals": ["Pogba", "Ibrahimovic", "Mkhitaryan", "Rooney", "Rashford"]
+    },
     {
       "match_id": 8,
       "home_team": "FC Bayern",
@@ -111,8 +109,7 @@
       "away_goals": ["Griezmann", "Torres"]
     }
   ],
-  "round-3":[
-    {
+  "round-3": [{
       "match_id": 13,
       "home_team": "Arsenal FC",
       "home_score": 1,
@@ -130,11 +127,11 @@
       "away_score": 0,
       "away_goals": []
     },
-   {
+    {
       "match_id": 15,
       "home_team": "FC Bayern",
       "home_score": 3,
-      "home_goals": ["Vidal","Lewandowski", "Lewandowski"],
+      "home_goals": ["Vidal", "Lewandowski", "Lewandowski"],
       "away_team": "Real Madrid CF",
       "away_score": 1,
       "away_goals": ["Ronaldo"]
@@ -167,8 +164,7 @@
       "away_goals": []
     }
   ],
-  "round-4":[
-    {
+  "round-4": [{
       "match_id": 19,
       "home_team": "Arsenal FC",
       "home_score": 1,
@@ -176,7 +172,7 @@
       "away_team": "Juventus FC",
       "away_score": 1,
       "away_goals": ["Dybala"]
-    }, 
+    },
     {
       "match_id": 20,
       "home_team": "BV Borussia",
@@ -194,12 +190,12 @@
       "away_team": "Manchester City FC",
       "away_score": 1,
       "away_goals": ["De Gea"]
-    },   
+    },
     {
       "match_id": 22,
       "home_team": "FC Bayern",
       "home_score": 5,
-      "home_goals": ["Müller","Lewandowski", "Lewandowski", "Douglas Costa", "Douglas Costa"],
+      "home_goals": ["Müller", "Lewandowski", "Lewandowski", "Douglas Costa", "Douglas Costa"],
       "away_team": "Atlético de Madrid",
       "away_score": 1,
       "away_goals": ["Griezmann"]
@@ -214,8 +210,7 @@
       "away_goals": ["Lucas, Cavani"]
     }
   ],
-  "round-5":[
-    {
+  "round-5": [{
       "match_id": 25,
       "home_team": "Arsenal FC",
       "home_score": 0,
@@ -228,7 +223,7 @@
       "match_id": 27,
       "home_team": "BV Borussia",
       "home_score": 4,
-      "home_goals": ["Aubameyang","Schürrle", "Götze", "F. Guerreiro"],
+      "home_goals": ["Aubameyang", "Schürrle", "Götze", "F. Guerreiro"],
       "away_team": "Atlético de Madrid",
       "away_score": 1,
       "away_goals": ["Griezmann"]
@@ -252,16 +247,24 @@
       "away_goals": []
     }
   ],
-  "round-6":[
-    {
+  "round-6": [{
       "match_id": 31,
       "home_team": "Arsenal FC",
       "home_score": 4,
-      "home_goals": ["Cazorla","Welbeck","Cazorla","Bellerin"],
+      "home_goals": ["Cazorla", "Welbeck", "Cazorla", "Bellerin"],
       "away_team": "Manchester City FC",
       "away_score": 0,
       "away_goals": []
-    },   
+    },
+    {
+      "match_id": 33,
+      "home_team": "Juventus FC",
+      "home_score": 1,
+      "home_goals": ["Cuadrado"],
+      "away_team": "Paris Saint-Germain FC",
+      "away_score": 0,
+      "away_goals": []
+    },
     {
       "match_id": 36,
       "home_team": "FC Bayern",
@@ -271,9 +274,37 @@
       "away_score": 0,
       "away_goals": []
     }
-  ],
-  "round-11":[
+  ],  
+  "round-7": [{
+      "match_id": 38,
+      "home_team": "Manchester City FC",
+      "home_score": 0,
+      "home_goals": [],
+      "away_team": "Paris Saint-Germain FC",
+      "away_score": 3,
+      "away_goals": ["Draxler", "Cavani", "Motta"]
+    },
     {
+      "match_id": 39,
+      "home_team": "Real Madrid CF",
+      "home_score": 1,
+      "home_goals": ["Sergio Ramos"],
+      "away_team": "FC Barcelona",
+      "away_score": 1,
+      "away_goals": ["Messi"]
+    }
+  ],
+  "round-8": [{
+    "match_id": 46,
+    "home_team": "Real Madrid CF",
+    "home_score": 0,
+    "home_goals": [],
+    "away_team": "Chelsea FC",
+    "away_score": 0,
+    "away_goals": []
+   }
+ ],
+ "round-11": [{
       "match_id": 61,
       "home_team": "Arsenal FC",
       "home_score": 0,
@@ -281,7 +312,6 @@
       "away_team": "Chelsea FC",
       "away_score": 1,
       "away_goals": ["Matic"]
-    }
-  ]
-
+   }
+ ]
 }
